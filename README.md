@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior developer from France 🥖</h3>
 
 <p align="center">📫 How to reach me?</p>
-<p align="center">Just here: **lowan.qrt@gmail.com**</p>
+<p align="center">Just here: <strong>lowan.qrt@gmail.com</strong></p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
