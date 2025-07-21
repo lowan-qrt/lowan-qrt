@@ -5,12 +5,10 @@
 <p align="center"><a href="mailto:lowan.qrt@gmail.com">lowan.qrt@gmail.com</a></p>
 
 <h3 align="center">🌐 Connect with me</h3>
-<p align="center">
+<p style="display: flex; gap: 10px;">
   <a href="https://linkedin.com/in/lowan-quarton" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
-<p align="center">
   <a href="https://discord.gg/lowan_qrt" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
