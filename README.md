@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lowan</h1>
 <h3 align="center">A passionate junior developer from France 🇫🇷 🥖</h3>
 
-<br />
-
 <h3 align="center">📫 How to reach me?</h3>
 <p align="center"><a href="mailto:lowan.qrt@gmail.com">lowan.qrt@gmail.com</a></p>
 
