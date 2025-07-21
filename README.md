@@ -6,7 +6,7 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/lowan-quarton" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="LinkedIn" height="40" width="40" /></a><a href="https://discord.gg/lowan_qrt" target="_blank"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lowan-quarton" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="LinkedIn" height="40" width="40" /></a><a href="https://discord.gg/lowan_qrt" target="_blank"><img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg" alt="Discord" height="40" width="40" /></a>
 </p>
 
 <table align="center">
