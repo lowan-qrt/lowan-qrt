@@ -30,7 +30,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
     </td>
     <td align="center">
-      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="60" />
+      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60" height="40" />
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
