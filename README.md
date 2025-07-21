@@ -3,8 +3,8 @@
 
 <br />
 
-<h3 align="center">How to reach me?</h3>
-<p></p><a href="mailto:lowan.qrt@gmail.com">lowan.qrt@gmail.com</a></p>
+<h3 align="center">📫 How to reach me?</h3>
+<p style="text-align: center;"><a href="mailto:lowan.qrt@gmail.com">lowan.qrt@gmail.com</a></p>
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
