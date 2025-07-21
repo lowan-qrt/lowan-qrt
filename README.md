@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <th align="center">💻 Langages</th>
-    <th align="center">🌐 Web (Frontend)</th>
+    <th align="center">🌐 Web</th>
     <th align="center">🗄️ Base de données</th>
     <th align="center">🛠️ Outils & Environnement</th>
   </tr>
