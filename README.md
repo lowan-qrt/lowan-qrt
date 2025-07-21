@@ -26,7 +26,7 @@
       <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" alt="HTML5" width="40" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/120px-CSS3_logo.svg.png" alt="CSS3" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-      <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="40" height="40" />
+      <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png" alt="Tailwind CSS" width="40" height="40" />
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
     </td>
     <td align="center">
