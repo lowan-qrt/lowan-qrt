@@ -11,10 +11,10 @@
 
 <table align="center">
   <tr>
-    <th align="center">💻 Langages</th>
+    <th align="center">💻 Languages</th>
     <th align="center">🌐 Web</th>
-    <th align="center">🗄️ Base de données</th>
-    <th align="center">🛠️ Outils & Environnement</th>
+    <th align="center">🗄️ Database</th>
+    <th align="center">🛠️ Tools & Environment</th>
   </tr>
   <tr>
     <td align="center">
