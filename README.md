@@ -12,7 +12,7 @@
 <table align="center">
   <tr>
     <th align="center">💻 Languages</th>
-    <th align="center">🌐 Web</th>
+    <th align="center">🌐 Web & Mobile</th>
     <th align="center">🗄️ Database</th>
     <th align="center">🛠️ Tools & Environment</th>
   </tr>
@@ -29,6 +29,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40" />
       <img src="https://img.icons8.com/?size=48&id=4PiNHtUJVbLs&format=png" alt="Tailwind CSS" width="40" height="40" />
       <img src="https://ui.shadcn.com/apple-touch-icon.png" alt="Shadcn" width="40" height="40" />
+      <img src="https://img.pikbest.com/origin/10/41/85/35HpIkbEsTU62.png!f305cw" alt="Flutter" width="40" height="40" />
     </td>
     <td align="center">
       <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60" height="40" />
