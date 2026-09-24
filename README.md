@@ -18,6 +18,7 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="https://thumb.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/960px-Java_Logo.svg.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="Java" width="30" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -32,13 +33,14 @@
       <img src="https://img.pikbest.com/origin/10/41/85/35HpIkbEsTU62.png!f305cw" alt="Flutter" width="40" height="40" />
     </td>
     <td align="center">
-      <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="60" height="40" />
+      <img src="https://thumb.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/langfr-3840px-MySQL.svg.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="MySQL" width="60" height="40" />
       <img src="https://iconape.com/wp-content/png_logo_vector/mariadb-logo.png" alt="MariaDB" width="60" height="40" />
     </td>
     <td align="center">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+      <img src="https://www.usebruno.com/_next/image?url=%2Fbruno-logo.png&w=48&q=75" alt="Bruno" width="40" height="40" />
     </td>
   </tr>
 </table>
