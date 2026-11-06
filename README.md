@@ -22,7 +22,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Go_Logo_Aqua.svg/3840px-Go_Logo_Aqua.svg.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="Go" width="50" height="40" />
+      <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Go_Logo_Aqua.svg/3840px-Go_Logo_Aqua.svg.png?utm_source=fr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" alt="Go" width="110" height="40" />
     </td>
     <td align="center">
       <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg" alt="HTML5" width="40" height="40" />
